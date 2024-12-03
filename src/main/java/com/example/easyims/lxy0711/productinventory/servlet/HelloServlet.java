@@ -1,4 +1,4 @@
-package com.example.easyims;
+package com.example.easyims.lxy0711.productinventory.servlet;
 
 import java.io.*;
 
